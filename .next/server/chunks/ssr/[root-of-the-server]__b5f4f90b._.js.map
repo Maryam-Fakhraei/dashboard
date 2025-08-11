@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["file:///home/myam/project-SCDP/learn-next/fullstack-next/.next-internal/server/app/user-dashboard/page/actions.js%20%28server%20actions%20loader%29"],"sourcesContent":["export {$$RSC_SERVER_ACTION_0 as '0020a906e961d0df8f13e99f1d5f696faa4fc2a5b2'} from 'ACTIONS_MODULE0'\n"],"names":[],"mappings":";AAAA","debugId":null}},
+    {"offset": {"line": 49, "column": 0}, "map": {"version":3,"sources":["file:///home/myam/project-SCDP/learn-next/fullstack-next/app/user-dashboard/page.tsx"],"sourcesContent":["export default function(){\n    return <p>Customers Page 1</p>\n}"],"names":[],"mappings":";;;;;AAAe;IACX,qBAAO,6XAAC;kBAAE;;;;;;AACd","debugId":null}}]
+}

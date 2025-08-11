@@ -16,6 +16,7 @@ import { Suspense } from 'react';
 import { RevenueChartSkeleton, LatestInvoicesSkeleton , CardSkeleton} from '@/app/ui/skeletons';
 import CardWrapper from '@/app/ui/dashboard/cards';
 
+
 export default async function Page() {
   // const revenue = await fetchRevenue();
   // const latestInvoices = await fetchLatestInvoices();

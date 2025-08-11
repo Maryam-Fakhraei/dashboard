@@ -1,14 +1,19 @@
-import AcmeLogo from '@/app/ui/acme-logo';
+import GreenhouseLogo from '@/app/ui/greenhouse-logo';
 import LoginForm from '@/app/ui/login-form';
 import { Suspense } from 'react';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Login | Greenhouse Dashboard',
+}
  
 export default function LoginPage() {
   return (
     <main className="flex items-center justify-center md:h-screen">
       <div className="relative mx-auto flex w-full max-w-[400px] flex-col space-y-2.5 p-4 md:-mt-32">
-        <div className="flex h-20 w-full items-end rounded-lg bg-blue-500 p-3 md:h-36">
-          <div className="w-32 text-white md:w-36">
-            <AcmeLogo />
+        <div className="flex h-20 w-full items-center rounded-lg bg-emerald-800 p-16 md:h-36">
+          <div className="w-32 text-emerald-100 md:w-36">
+            <GreenhouseLogo />
           </div>
         </div>
         <Suspense>
