@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":["file:///home/myam/project-SCDP/learn-next/fullstack-next/app/user-dashboard/%5Btype%5D/page.tsx"],"sourcesContent":["// import LineChart from \"@/app/ui/user-dashboard/LineChart\";\n// import BarChart from \"@/app/ui/user-dashboard/BarChart\"\n\n// export default function Page() {\n//   return (\n//     <div>\n\n//       <div>\n//         <h3>Line Chart</h3>\n//         <LineChart />\n//       </div>\n//       <div>\n//         <h3>Bar Chart with fetch data from Axios</h3>\n//         <BarChart />\n//       </div>\n//     </div>\n//   );\n// }\n"],"names":[],"mappings":"AAAA,6DAA6D;AAC7D,0DAA0D;AAE1D,mCAAmC;AACnC,aAAa;AACb,YAAY;AAEZ,cAAc;AACd,8BAA8B;AAC9B,wBAAwB;AACxB,eAAe;AACf,cAAc;AACd,wDAAwD;AACxD,uBAAuB;AACvB,eAAe;AACf,aAAa;AACb,OAAO;AACP,IAAI","debugId":null}}]
+}

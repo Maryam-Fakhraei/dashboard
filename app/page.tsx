@@ -1,4 +1,4 @@
-import GreenhouseLogo from "@/app/ui/greenhouse-logo"
+import GreenhouseLogo from "@/app/ui/greenhouse-logo";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 import { lusitana } from "@/app/ui/fonts";
@@ -8,7 +8,13 @@ export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6 bg-stone-50">
       <div className="flex h-20 shrink-0 items-center rounded-lg bg-emerald-800 p-4 md:h-40">
-        <GreenhouseLogo size="lg"/>
+        <GreenhouseLogo size="lg" />
+          {/* <Image
+            src="/infinity-logo.png"
+            width={150}
+            height={100}
+            alt="infinity logo"
+          /> */}
       </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-stone-100 px-6 py-10 md:w-2/5 md:px-20">
